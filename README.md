@@ -201,3 +201,4 @@ python3 patch.py netinstall netinstall.exe
 zip netinstall-$VERSION-patched.zip netinstall.exe
 rm netinstall-$VERSION.zip netinstall.exe LICENSE.txt
 ```
+# Mikrotikold
